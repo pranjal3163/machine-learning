@@ -160,4 +160,4 @@ docker_judger/run/spj/spj-2
 # ignore migration modules
 
 **/migrations/*
-/data/*.csv
+
